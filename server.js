@@ -18,6 +18,7 @@ app.get("/", (req, res) => {
   res.sendFile("index.html");
 });
 
-server.listen(3000, () => {
-  console.log("listening on *:3000");
+const port = 5000;
+server.listen(port, () => {
+  console.log(`listening on *:${port}`);
 });
