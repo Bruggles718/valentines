@@ -104,11 +104,13 @@ h1 {
   color: #ff6f61;
   font-size: 3em;
   animation: fadeIn 2s ease-in-out;
+  margin:auto;
 }
 
 h2 {
   color: #610600;
   font-size: 2em;
+  margin:auto;
 }
 
 p {
