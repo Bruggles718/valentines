@@ -3,7 +3,8 @@
 }
 
 .reveal-button {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 40vh;
   height: 10vh;
   background-color: #ff6f61;
@@ -105,19 +106,22 @@ h1 {
   color: #ff6f61;
   font-size: 3em;
   animation: fadeIn 2s ease-in-out;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {
   color: #610600;
   font-size: 2em;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
   font-size: 1.2em;
   width: 50vh;
-  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
   padding:10px;
   padding-top: 30px;
 }
