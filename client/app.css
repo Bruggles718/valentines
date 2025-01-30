@@ -127,6 +127,7 @@ img {
 }
 
 .image-container {
+  margin: auto;
   display: inline-block;
   padding: 5px;
   border: 20px dotted transparent;
