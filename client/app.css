@@ -3,6 +3,7 @@
 }
 
 .reveal-button {
+  margin: auto;
   width: 40vh;
   height: 10vh;
   background-color: #ff6f61;
