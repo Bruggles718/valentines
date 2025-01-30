@@ -5,7 +5,7 @@
 .reveal-button {
   margin-left: auto;
   margin-right: auto;
-  width: 40vh;
+  width: 40vw;
   height: 10vh;
   background-color: #ff6f61;
   border-radius: 30px;
@@ -127,7 +127,7 @@ p {
 }
 
 img {
-  width: 50vh;
+  width: max(50vh, 25vw);
   padding-bottom: 0px;
 }
 
